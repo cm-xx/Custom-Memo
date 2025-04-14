@@ -42,3 +42,8 @@
 - 初始版本发布
 - 实现基本的备忘录功能
 - 支持自动保存
+
+## 界面截图
+![003.png](https://www.img520.com/YcpZki.png)
+![004.png](https://www.img520.com/NxrqZL.png)
+
