@@ -44,6 +44,7 @@
 - 支持自动保存
 
 ## 界面截图
-![003.png](https://www.img520.com/YcpZki.png)
-![004.png](https://www.img520.com/NxrqZL.png)
+![1.png](https://www.syunz.com/wp-content/uploads/2025/04/002.png)
+![2.png](https://www.syunz.com/wp-content/uploads/2025/04/003.png)
+![3.png](https://www.syunz.com/wp-content/uploads/2025/04/004.png)
 
