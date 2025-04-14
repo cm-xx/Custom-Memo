@@ -44,6 +44,8 @@
 - 支持自动保存
 
 ## 界面截图
+ [若图片不显示，可以点击这里](https://www.syunz.com/4941.html) 
+
 ![1.png](https://www.syunz.com/wp-content/uploads/2025/04/002.png)
 ![2.png](https://www.syunz.com/wp-content/uploads/2025/04/003.png)
 ![3.png](https://www.syunz.com/wp-content/uploads/2025/04/004.png)
